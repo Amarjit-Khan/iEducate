@@ -3,7 +3,7 @@
 
 iEducate - Transforming Online Education
 
-A responive educational website with smooth scroll effect and admirable CSS.
+A responsive educational website with smooth scroll effect and admirable CSS.
 ## Skills
 * HTML
 * CSS
